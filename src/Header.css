@@ -1,0 +1,54 @@
+.header
+{
+    padding: 0 , 50px ;
+    position: sticky;
+}
+.menubar
+{
+   padding-right: 15px;
+}
+.header-middle-items
+{
+   width: 40%; 
+   /* margin: 0 35rem; */
+  
+}
+.input-box
+{
+  width: 36%;
+  padding: 0px 20px;
+ 
+
+}
+input.search-box
+{
+    width: 40%;
+    height: 38px;
+    border: 1px solid #607d8b80;
+    padding: 0px 20px;
+    margin: auto;
+    border-radius: 2rem;
+    font-size: 1rem;
+}
+.search-box
+{
+    width: 60px;
+    height: 38px;
+    right: 550px;
+    top: 1rem;
+    position: absolute;
+    border-left: 1px solid #607d8b80;
+}
+.right{
+   
+    width: 10rem;
+    margin: 1rem 70rem;
+}
+.right .bell-icon
+{
+    position: absolute;
+    width: 5rem;
+    margin: -2.7rem 3rem;
+    height: 7rem;
+    /* background-color: black */
+}
